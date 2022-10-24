@@ -12,9 +12,5 @@ export const members: Member[] = [
       "https://zenn.dev/catnose99/feed",
       "https://catnose.medium.com/feed",
     ],
-    includeUrlRegex: "medium.com|zenn.dev",
-    twitterUsername: "catnose99",
-    githubUsername: "catnose99",
-    websiteUrl: "https://catnose99.com",
   },
 ];
