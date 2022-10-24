@@ -52,12 +52,4 @@ export const members: Member[] = [
     avatarSrc: "/avatars/naoko.jpg",
     sources: [],
   },
-  {
-    id: "alexandria",
-    name: "Alexandria",
-    role: "Tech Lead",
-    bio: "IT professional with 3 years of experience",
-    avatarSrc: "/avatars/alexandria.jpg",
-    sources: [],
-  },
 ];
